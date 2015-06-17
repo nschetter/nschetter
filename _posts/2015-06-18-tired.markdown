@@ -1,0 +1,14 @@
+---
+layout: post
+title: "tired"
+date: 2015-06-18
+categories: code
+---
+
+Hey!
+
+```ruby
+def blah
+  puts "hey"
+end
+```
